@@ -12,5 +12,6 @@ To dig deeper into the reason for the differences in the success rate based on g
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/81715217/117545498-a37d3800-afeb-11eb-8ea6-18dea6a0fbee.png)
 
-![Successful Play outcomes based on launch date](https://user-images.githubusercontent.com/81715217/117545452-73359980-afeb-11eb-930b-455ff385839c.png)
+![Successful Play outcomes based on launch date](https://user-images.githubusercontent.com/81715217/117545601-1d152600-afec-11eb-9644-567302225d4b.png)
+
 
