@@ -8,3 +8,9 @@ When you look at the timing, May is the best month for launching a theatre campa
 
 To dig deeper into the reason for the differences in the success rate based on goals, data on the targeted group of contributors would be necessary to see how that affects the outcomes.
 
+
+[My image](Outcomes Based on Launch Date.png)
+
+[My image](Outcomes_vs_Goals.png)
+
+[My image](Successful Play outcomes based on launch date.png)
